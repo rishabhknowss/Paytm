@@ -1,4 +1,4 @@
-const JWT_SECRET = "Rishabhtoken";
+//backend/config.js
 module.exports = {
-    JWT_SECRET
+	JWT_SECRET: "your-jwt-secret"
 }
