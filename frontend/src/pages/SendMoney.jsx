@@ -1,4 +1,6 @@
-import { Heading } from "../components/Heading"
+import { Send } from "../components/Send"
 export function SendMoney(){
-    <Heading label ="Signup"></Heading>
+    return <>
+    <Send></Send>
+    </>
 }
